@@ -8,9 +8,9 @@ The files are stored based on the section of work viz:
 
 3. Tensorboard : Example Code for Tensorboard visualizations
 
-4. User Journey Modeling : End to End Pipeline for user journey modeling from Data Cleaning to Cluster Analysis. Contains file for both datasets.
+4. User Journey Modeling : End to End Pipeline for modeling USER BEHAVIOR w.r.t INTERACTIONS WITH A GIVEN PRODUCT i.e. from Data Cleaning to Cluster Analysis. Contains file for both datasets.
 
-5. User Session Modeling: End to End Pipeline for user journey modeling from Data Cleaning to Cluster Analysis. Contains file for both datasets.
+5. User Session Modeling: End to End Pipeline for modeling USER BEHAVIOR ACROSS ONLINE SESSIONS i.e. from Data Cleaning to Cluster Analysis. Contains file for both datasets.
 
 6. .DS_Store : System File
 
